@@ -13,28 +13,28 @@ Welcome to my GitHub profile! I’m a passionate software developer and AI enthu
 
 ## 🛠️ Tech Stack
 
-```bash
-💻 Languages: Java, Python, JavaScript, SQL
-🛠️ Frameworks: Spring Boot, React, Node.js
-🤖 AI & ML: LLM, Generative AI, RAG, LangChain
-☁️ Cloud & DevOps: Docker, Kubernetes, Azure, AWS
+💻 Languages: Java, Python, JavaScript, SQL  
+🛠️ Frameworks: Spring Boot, React, Node.js  
+🤖 AI & ML: LLM, Generative AI, RAG, LangChain  
+☁️ Cloud & DevOps: Docker, Kubernetes, Azure, AWS  
 📦 Tools: Git, GitHub, Maven, Gradle, VS Code, IntelliJ
 
 ## 📈 GitHub Stats
 
-- [Himandri's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhbm&theme=dark&show_icons=true)
+![Himandri's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhbm&theme=dark&show_icons=true)
 
-## 🌟 Featured Project
-- 🚀 [prompting](https://github.com/imhbm/masterinprompting)
-- 🚀 [build your agent](https://github.com/imhbm/learnAgents))
+## 🌟 Featured Projects
+
+- 🚀 [Prompting](https://github.com/imhbm/masterinprompting) → A project to master prompt engineering techniques  
+- 🚀 [Build Your Agent](https://github.com/imhbm/learnAgents) → Learn how to build AI agents with hands-on examples
 
 ## 📝 My Technical Blogs
 
-- 🔗 [Build AI Agents](https://learngenai.hashnode.dev/build-ai-agents)
-- 🔗 [Master in Prompts Using Python](https://learngenai.hashnode.dev/master-in-prompts-using-python)
+- 🔗 [Build AI Agents](https://learngenai.hashnode.dev/build-ai-agents)  
+- 🔗 [Master in Prompts Using Python](https://learngenai.hashnode.dev/master-in-prompts-using-python)  
 - 🔗 [Decoding AI Jargons with Chai](https://learngenai.hashnode.dev/decoding-ai-jargons-with-chai)
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/himandrimallick/)
+- [LinkedIn](https://www.linkedin.com/in/himandrimallick/)  
 - 📧 ihbm.dev@gmail.com
